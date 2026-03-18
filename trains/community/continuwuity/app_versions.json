@@ -166,7 +166,7 @@
                                             "variable": "server",
                                             "label": "Server",
                                             "schema": {
-                                                "type": "uri"
+                                                "type": "string"
                                             }
                                         }
                                     ]
